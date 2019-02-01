@@ -1,4 +1,4 @@
-CO2SYS program for anoxic waters
+# CO2SYS program for anoxic waters
 It is modified from CO2SYS.m (van Heuven et al., 2011).
 It can be used to calculate carbonate chemistry variables for anoxic water where H2S and/or NH3 exist. 
 
